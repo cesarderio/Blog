@@ -1,4 +1,4 @@
-## Enhancing Security with CIS Standards
+# Enhancing Security with CIS Standards
 
 Exploring the robust framework of CIS (Center for Internet Security) Benchmarks, this post focuses on their pivotal role in systems hardening, offering an insight into their benefits, core categories, and the importance of their implementation in organizational security.
 
