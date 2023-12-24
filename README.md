@@ -13,17 +13,17 @@ Here's a list of the blog posts available in this repository:
 1. [Computer Hardware Security: Insights from the Chinese Spy Chip Case](./Library/1_Insight.md)
    - Explore computer hardware security through the Chinese spy chip case. Gain valuable insights and lessons from this cybersecurity incident.
 
-<!-- <br> -->
+    <br>
 
 2. [Building Your Own Computer: Guide for Beginners](./Library/2_Hardware.md)
    - Discover the step-by-step guide for beginners on building your own computer. Learn the essentials of assembling your PC and gain the confidence to embark on this exciting journey.
 
-<!-- <br> -->
+    <br>
 
 3. [Startup: BIOS and the Boot Sequence](./Library/3_Startup_Process.md)
    - Delve into the world of computer startup as we explore BIOS and the boot sequence. Understand how your computer boots up and the crucial role of BIOS in the process.
 
-<!-- <br> -->
+    <br>
 
 4. [Beginner's Guide to Ubuntu Linux](./Library/4_Ubuntu_Intro.md)
    - Embark on your Linux journey with this beginner's guide to Ubuntu. Discover the basics of Ubuntu Linux, its user-friendly interface, and essential commands to get you started.
