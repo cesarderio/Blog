@@ -1,4 +1,4 @@
-## Welcome to the Blogs Repository! This repository contains a collection of informative and insightful blog posts on various topics related to cybersecurity, hacking, web development, and more. Feel free to explore the blogs and expand your knowledge in these areas.
+## Welcome to the Blog Repository! This repository contains a collection of informative and insightful blog posts on various topics related to cybersecurity, hacking, web development, and more. Feel free to explore the blogs and expand your knowledge in these areas.
 
 <br>
 
