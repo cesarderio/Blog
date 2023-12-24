@@ -1,0 +1,25 @@
+body {
+  background-color: rgb(46, 46, 46);
+  color: #F8F8FF; /* off-white color, you can adjust this value if needed */
+  /* text-align: center; */
+}
+
+/* body p {
+  text-align: left;
+} */
+
+body h1,
+body h2,
+body h3,
+body img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+a {
+  display: block;
+  margin: 0 auto;
+  color: rgb(13, 40, 251); /* Change the color value to a brighter color */
+}
+

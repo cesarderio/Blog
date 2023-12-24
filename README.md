@@ -6,33 +6,87 @@ Welcome to the Blogs Repository! This repository contains a collection of inform
 
 Here's a list of the blog posts available in this repository:
 
-1. [Computer Hardware Security: Insights from the Chinese Spy Chip Case](./Level1/1_Insight.md)
+1. [Computer Hardware Security: Insights from the Chinese Spy Chip Case](./Library/1_Insight.md)
    - Explore computer hardware security through the Chinese spy chip case. Gain valuable insights and lessons from this cybersecurity incident.
 
-2. [Building Your Own Computer: Guide for Beginners](./Level1/2_Hardware.md)
+2. [Building Your Own Computer: Guide for Beginners](./Library/2_Hardware.md)
    - Discover the step-by-step guide for beginners on building your own computer. Learn the essentials of assembling your PC and gain the confidence to embark on this exciting journey.
 
-3. [Startup: BIOS and the Boot Sequence](./Level1/3_Startup_Process.md)
+3. [Startup: BIOS and the Boot Sequence](./Library/3_Startup_Process.md)
    - Delve into the world of computer startup as we explore BIOS and the boot sequence. Understand how your computer boots up and the crucial role of BIOS in the process.
 
-4. [Beginner's Guide to Ubuntu Linux](./Level1/4_Ubuntu_Intro.md)
+4. [Beginner's Guide to Ubuntu Linux](./Library/4_Ubuntu_Intro.md)
    - Embark on your Linux journey with this beginner's guide to Ubuntu. Discover the basics of Ubuntu Linux, its user-friendly interface, and essential commands to get you started.
 
-5. [Command Line Interface](./Level1/5_CLI.md)
+5. [Command Line Interface](./Library/5_CLI.md)
    - Dive into the world of the Linux terminal and learn how to use the Command Line Interface (CLI) like a pro. This beginner-friendly guide will take you through essential commands, tips, and tricks to harness the power of the terminal in your Linux journey.
 
-6. [SOHO Network](./Level1/6_SOHO.md)
+6. [SOHO Network](./Library/6_SOHO.md)
    - Explore the role of the Linksys WRT54GL router in Small Office/Home Office (SOHO) networking setups. Learn how this versatile router can enhance your network's performance and security.
 
-
-7. [Remote Connectivity: SSH and RDP](./Level1/7_Remote.md)
+7. [Remote Connectivity: SSH and RDP](./Library/7_Remote.md)
    - Learn about two essential protocols, SSH (Secure Shell) and RDP (Remote Desktop Protocol), and gain insights into how they enable secure and convenient remote access to computers and servers.
 
-8. [Virtualizing Windows OS with ISO Files](./Level1/8_Virtualization.md)
+8. [Virtualizing Windows OS with ISO Files](./Library/8_Virtualization.md)
    - Explore the world of ISO files and gain the skills to virtualize Windows OS using Virtual Box.
 
-9. [Windows Command Line: Command Prompt, PowerShell and Terminal](./Level1/9_Windows_CLI.md)
+9. [Windows Command Line: Command Prompt, PowerShell and Terminal](./Library/9_Windows_CLI.md)
    - Demystify Windows Command Line, PowerShell, and Terminal for efficient system management.
+
+10. [Navigating System Restore in Windows](./Library/10_System_Restore.md)
+
+
+11. [Modern Development: GitHub, VS Code, and Unix Shells](./Library/11_Github&Shells.md)
+
+
+12. [Desk Support in IT: Skills, Responsibilities, and Processes](./Library/12_Desk_Support.md)
+
+
+13. [Art of Troubleshooting](./Library/13_Troubleshooting.md)
+
+
+14. [Windows Command Line Tools & SMB Ports](./Library/14_Windows_CLI&SMB.md)
+
+
+15. [Windows Security: Defender Security Center and Event Viewer](./Library/15_Windows_Defender.md)
+
+
+16. [Windows Powershell](./Library/16_Powershell.md)
+
+
+17. [Windows Registry and System Log Analysis](./Library/17_Windows_Registry.md)
+
+
+18. [SOPs for Workstation Deployment: Best Practices and Guidelines](./Library/18_SOP_Guide.md)
+
+
+19. [System Imaging, Backup, and Recovery with Veeam](./Library/19_Veeam.md)
+
+
+20. [Data Restoration and Secure Disposal](./Library/20_Data_Security.md)
+
+
+21. [Network Management with pfSense](./Library/21_pfSense.md)
+
+
+22. [Cloud Virtualization with AWS](./Library/22_AWS_Introduction.md)
+
+
+
+23. [Windows Tools & Techniques for Malware Remediation](./Library/23_Windows_Malware.md)
+
+
+24. [The Impact of Psychological Safety on Team Dynamics and Productivity](./Library/24_Teams.md)
+
+
+25. []()
+
+
+
+
+
+
+
 
 
 <!-- 1. [Navigating the World of Exploitation with Metasploit](blog/exploitation_with_metasploit.md)
