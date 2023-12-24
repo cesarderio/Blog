@@ -348,27 +348,27 @@ Here's a list of the blog posts available in this repository:
 68. [Comprehensive Guide to "Pass the Hash" Attack with Mimikatz](./Library/68_MimiKatz.md)
     - Explore the complexities of the "Pass the Hash" attack using Mimikatz. Understand the techniques involved and measures for preventing such security breaches.
 
-<br>
+    <br>
 
 69. [Exploring Reconnaissance in Cybersecurity](./Library/reconnaissance.md)
     - Explore the world of reconnaissance in cybersecurity. Understand its significance, how it relates to the Cyber Kill Chain, and its benefits in penetration testing.
 
-<br>
+    <br>
 
 70. [Navigating "Pass the Hash" and Defense Strategies Against Mimikatz](./Library/70_Defense_Mimikatz.md)
     - Learn about defending against "Pass the Hash" attacks and strategies to counteract Mimikatz. Essential for cybersecurity professionals looking to protect their networks.
 
-<br>
+    <br>
 
 71. [Understanding Sniffing Attacks and Evasion Techniques](./Library/71_Sniff&Evasion.md)
     - Understand sniffing attacks in system hacking and how encryption protects traffic against them. Explore passive and active sniffing, their pros and cons, and more.
 
-<br>
+    <br>
 
 72. [Navigating the World of Exploitation with Metasploit](./Library/72_Metasploit.md)
     - Explore the world of cyber exploitation using Metasploit. Understand how this tool can be used for security testing and ethical hacking.
 
-<br>
+    <br>
 
 
 Feel free to click on the links above to read the blog posts. We hope you find these blogs informative and useful in your journey to understanding various aspects of cybersecurity and web development.
