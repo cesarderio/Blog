@@ -2,7 +2,7 @@
 
 <br>
 
-### Blog Posts
+## Blog Posts
 
 Here's a list of the blog posts available in this repository:
 
@@ -373,7 +373,7 @@ Feel free to click on the links above to read the blog posts. We hope you find t
 
 ## Contributing
 
-If you'd like to contribute to this repository by adding your own blog posts or making improvements to existing ones, please follow our [contribution guidelines](CONTRIBUTING.md).
+If you'd like to contribute to this repository by adding your own blog posts or making improvements to existing ones, please create a pull request.
 
 ## License
 
