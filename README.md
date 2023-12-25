@@ -393,62 +393,62 @@ Here's a list of the blog posts available in this repository:
 
     <br>
 
-78. [Linux Storage Command Line Management Tools]
+78. [Linux Storage Command Line Management Tools](./Library/78_Storage_Management.md)
     - Get acquainted with the command line tools for managing storage in Linux. This guide introduces powerful utilities for disk management, monitoring, and optimization.
 
     <br>
 
-79. [Mounting File Systems in Linux: Local and Cloud-based Storage]
+79. [Mounting File Systems in Linux: Local and Cloud-based Storage](./Library/79_Mounting.md)
     - Learn the techniques to mount various file systems in Linux, including both local and cloud-based storage solutions. This guide covers the basics of mounting, unmounting, and managing different storage types.
 
     <br>
 
-80. [Linux File System Hard and Soft (Symbolic) Links]
+80. [Linux File System Hard and Soft (Symbolic) Links](./Library/80_Links.md)
     - Understand the concepts of hard and soft (symbolic) links in Linux file systems. This section explains how these links work, their differences, and practical uses in a Linux environment.
 
     <br>
 
-81. [Disk Management in Linux: Managing and Repairing File Systems]
+81. [Disk Management in Linux: Managing and Repairing File Systems](./Library/81_Disk_Management.md)
     - Focus on disk management and file system maintenance in Linux. Learn to diagnose, repair, and manage disks effectively using Linux tools and utilities.
 
     <br>
 
-82. [RAID Disk Levels and Configuring Software RAID in Linux]
+82. [RAID Disk Levels and Configuring Software RAID in Linux](./Library/82_RAID.md)
     - Explore the various RAID levels and learn how to configure software RAID in Linux. This guide provides insights into RAID technology and practical steps for setting up RAID arrays.
 
     <br>
 
-83. [LVM - Logical Volume Management in Linux]
+83. [LVM - Logical Volume Management in Linux](./Library/83_LVM.md)
     - Delve into Logical Volume Management (LVM) in Linux, a flexible disk management system. Understand how LVM enhances storage management and learn to configure and manage volumes.
 
     <br>
 
-84. [Network Storage: Understanding and Configuring SAN and NAS in Linux]
+84. [Network Storage: Understanding and Configuring SAN and NAS in Linux](./Library/84_Network_Storage.md)
     - Get to grips with network storage solutions like SAN and NAS in a Linux context. This guide covers the basics of these technologies and how to integrate them into a Linux-based network.
 
     <br>
 
-85. [Permissions Management in Linux: Securing Your File System]
+85. [Permissions Management in Linux: Securing Your File System](./Library/85_Permissions.md)
     - Learn about managing permissions in Linux to secure your file system. This section covers the basics of file permissions, user groups, and effective permission management strategies.
 
     <br>
 
-86. [Extended ACL File System Permissions in Linux]
+86. [Extended ACL File System Permissions in Linux](./Library/86_ACL.md)
     - Explore the extended Access Control List (ACL) in Linux file systems. Understand how ACLs provide more granular control over file permissions and how to implement them effectively.
 
     <br>
 
-87. [Managing Extended ACL Linux File System Permissions]
+87. [Managing Extended ACL Linux File System Permissions](./Library/87_Managing_ACL.md)
     - Delve deeper into managing extended ACL file system permissions in Linux. This guide provides advanced techniques and practical examples for fine-tuning access controls.
 
     <br>
 
-88. [Linux File Compression and Archiving Tools]
+88. [Linux File Compression and Archiving Tools](./Library/88_Compression.md)
     - Discover the various tools available in Linux for file compression and archiving. Learn how to effectively reduce file sizes and bundle multiple files for efficient storage and transfer.
 
     <br>
 
-89. [Managing Linux File Compression and Archiving]
+89. [Managing Linux File Compression and Archiving](./Library/89_Comp_Manage.md)
     - Master the skills of managing file compression and archiving in Linux. This section provides tips and tricks for optimizing space and maintaining the integrity of compressed and archived files.
 
     <br>
