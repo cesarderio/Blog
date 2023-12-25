@@ -368,6 +368,90 @@ Here's a list of the blog posts available in this repository:
 
     <br>
 
+73. [Linux Overview: The Versatile World of Open-Source Operating Systems](./Library/73_Linux_Overview.md)
+    - Dive into the world of Linux, a leading open-source operating system known for its versatility and robustness. Learn about its history, core concepts, and why it's a top choice in various computing environments.
+
+    <br>
+
+74. [BIOS, UEFI, and the Linux Startup Process](./Library/74_Boot.md)
+    - Understand the crucial components of the Linux startup process, including BIOS and UEFI systems. This guide elucidates how Linux interfaces with these firmware types and the overall boot sequence.
+
+    <br>
+
+75. [Installing Linux: A Guide to Different Methods and Environments](./Library/75_Installations.md)
+    - Explore various methods and environments for installing Linux, from classic desktop installations to server setups. This guide provides step-by-step instructions and tips for a smooth Linux installation experience.
+
+    <br>
+
+76. [File System Navigation and Managing Linux Hardware](./Library/76_System_Navigation.md)
+    - Master the essentials of file system navigation and hardware management in Linux. Learn how to efficiently navigate directories, manage files, and handle hardware components through the Linux command line.
+
+    <br>
+
+77. [Storage and File Systems in Linux](./Library/77_Storage&File_Systems.md)
+    - Delve into the storage options and file system architectures in Linux. This comprehensive overview covers traditional and modern file systems, their features, and how to choose the right one for your needs.
+
+    <br>
+
+78. [Linux Storage Command Line Management Tools]
+    - Get acquainted with the command line tools for managing storage in Linux. This guide introduces powerful utilities for disk management, monitoring, and optimization.
+
+    <br>
+
+79. [Mounting File Systems in Linux: Local and Cloud-based Storage]
+    - Learn the techniques to mount various file systems in Linux, including both local and cloud-based storage solutions. This guide covers the basics of mounting, unmounting, and managing different storage types.
+
+    <br>
+
+80. [Linux File System Hard and Soft (Symbolic) Links]
+    - Understand the concepts of hard and soft (symbolic) links in Linux file systems. This section explains how these links work, their differences, and practical uses in a Linux environment.
+
+    <br>
+
+81. [Disk Management in Linux: Managing and Repairing File Systems]
+    - Focus on disk management and file system maintenance in Linux. Learn to diagnose, repair, and manage disks effectively using Linux tools and utilities.
+
+    <br>
+
+82. [RAID Disk Levels and Configuring Software RAID in Linux]
+    - Explore the various RAID levels and learn how to configure software RAID in Linux. This guide provides insights into RAID technology and practical steps for setting up RAID arrays.
+
+    <br>
+
+83. [LVM - Logical Volume Management in Linux]
+    - Delve into Logical Volume Management (LVM) in Linux, a flexible disk management system. Understand how LVM enhances storage management and learn to configure and manage volumes.
+
+    <br>
+
+84. [Network Storage: Understanding and Configuring SAN and NAS in Linux]
+    - Get to grips with network storage solutions like SAN and NAS in a Linux context. This guide covers the basics of these technologies and how to integrate them into a Linux-based network.
+
+    <br>
+
+85. [Permissions Management in Linux: Securing Your File System]
+    - Learn about managing permissions in Linux to secure your file system. This section covers the basics of file permissions, user groups, and effective permission management strategies.
+
+    <br>
+
+86. [Extended ACL File System Permissions in Linux]
+    - Explore the extended Access Control List (ACL) in Linux file systems. Understand how ACLs provide more granular control over file permissions and how to implement them effectively.
+
+    <br>
+
+87. [Managing Extended ACL Linux File System Permissions]
+    - Delve deeper into managing extended ACL file system permissions in Linux. This guide provides advanced techniques and practical examples for fine-tuning access controls.
+
+    <br>
+
+88. [Linux File Compression and Archiving Tools]
+    - Discover the various tools available in Linux for file compression and archiving. Learn how to effectively reduce file sizes and bundle multiple files for efficient storage and transfer.
+
+    <br>
+
+89. [Managing Linux File Compression and Archiving]
+    - Master the skills of managing file compression and archiving in Linux. This section provides tips and tricks for optimizing space and maintaining the integrity of compressed and archived files.
+
+    <br>
 
 Feel free to click on the links above to read the blog posts. We hope you find these blogs informative and useful in your journey to understanding various aspects of cybersecurity and web development.
 
